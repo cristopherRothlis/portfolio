@@ -1,0 +1,22 @@
+.banner{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center
+    ;
+}
+.imgBanner{
+    width: 50%;
+}
+.textoBanner{
+    display: flex;
+    flex-flow: column nowrap ;
+
+justify-content:center;
+align-items: center;
+}
+
+
+    
+    
+
